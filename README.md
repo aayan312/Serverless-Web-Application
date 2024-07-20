@@ -23,7 +23,7 @@ application will allow users to interact with a backend system through RESTful A
    - Go to IAM Roles.
    - Use case: Lambda.
    - Attach the following policy:
-     - Lambda basic execution role (to write logs)
+   - Lambda basic execution role (to write logs)
    - Name the role.
 
 ### Step 2: Lambda Function
