@@ -3,11 +3,10 @@ This repository provides a guide to building a serverless web application using 
 
 ## Project Overview
 
-The project demonstrates how to build a serverless web application by leveraging AWS Lambda and API Gateway. The web ![webpage](https://github.com/user-attachments/assets/4e738a7c-15e9-4a00-9e77-2f80cd76c315)
+The project demonstrates how to build a serverless web application by leveraging AWS Lambda and API Gateway. The web 
 application will allow users to interact with a backend system through RESTful API endpoints.
 
-
-![Uploading webpage.png…]()
+![webpage](https://github.com/user-attachments/assets/df2f3890-dde8-4a64-8f49-1bc639399550)
 
 ## Prerequisites
 
